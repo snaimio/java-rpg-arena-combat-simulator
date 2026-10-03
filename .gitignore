@@ -1,0 +1,43 @@
+# Compiled Java bytecode
+*.class
+
+# Log files
+*.log
+
+# Save game files
+savegame.txt
+*.dat
+*.sav
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE and Editor configurations
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+bin/
+out/
+build/
+target/
